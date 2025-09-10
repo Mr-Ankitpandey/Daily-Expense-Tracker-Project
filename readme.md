@@ -56,4 +56,4 @@ You can use the following credentials to log in, or register a new account yours
 
 ---
 
-**Enjoy tracking your expenses and gaining better control over your finances!**
+**Code by @nkit**
